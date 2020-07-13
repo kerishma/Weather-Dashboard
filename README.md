@@ -36,7 +36,7 @@ THEN I am presented with the last searched city forecast
     
 
 ## Deployed link
-https://kerishma.github.io/Weather-Dashboard/index.html
+https://kerishma.github.io/Weather-Dashboard/
 
 ### Gif Demo 
 ![Weather Dashboard Demo](https://github.com/kerishma/Weather-Dashboard/blob/master/5-day%20Forecast.gif)
