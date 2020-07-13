@@ -39,7 +39,7 @@ THEN I am presented with the last searched city forecast
 https://kerishma.github.io/Weather-Dashboard/index.html
 
 ### Gif Demo 
-![ Work Day Scheduler Demo]()
+![Weather Dashboard Demo](https://github.com/kerishma/Weather-Dashboard/blob/master/5-day%20Forecast.gif)
 
 ## Owner
 Kerishma Tarin
